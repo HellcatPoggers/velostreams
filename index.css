@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/053/131/961/original/sofia-ritter-city-scene-gif.gif?1661482695");
+    
+}
+
+.pfp {
+    border-radius: 50%;
+    padding: 200px;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: Courier;
+    color: indigo;
+}
+
+.text1 {
+    margin-bottom: 300px;
+    padding-left: 475px;
+    font-size: 80px;
+}
